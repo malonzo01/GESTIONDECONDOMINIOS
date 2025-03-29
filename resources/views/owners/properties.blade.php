@@ -1,4 +1,4 @@
-@extends('adminlte::layouts.owners')
+@extends('adminlte::layouts.appowners')
 
 @section('main-content')
 	<div class="row">

@@ -5,7 +5,7 @@ namespace App;
 
 use App\Admin;
 use App\Owner;
-use App\People;
+// use App\People;
 use App\Phone;
 use App\User;
 use Illuminate\Database\Eloquent\Model;

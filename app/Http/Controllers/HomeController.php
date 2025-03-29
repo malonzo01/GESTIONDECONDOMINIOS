@@ -81,7 +81,7 @@ class HomeController extends Controller
         {
             return redirect('/home');
         }
-        if ($role->id == "2")
+        if ($role->id == "3")
         {
             return redirect()->route('owners.owners.home');
         }
